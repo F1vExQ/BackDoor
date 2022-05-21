@@ -11,7 +11,7 @@ import turtle
 import time
 import random
 
-ip = "192.168.1.209"
+ip = #Your local ip address
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((ip, 7070))
