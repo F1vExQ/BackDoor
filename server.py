@@ -40,7 +40,7 @@ for c in z:
     sys.stdout.flush()
     time.sleep(0.02)
 
-ip = #your local ip address
+ip = #Your local ip address
 
 # ---Main server...
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
